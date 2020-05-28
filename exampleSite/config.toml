@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "https://prologue-ariefb.netlify.app/"
 theme = "prologue"
 
 [params]
